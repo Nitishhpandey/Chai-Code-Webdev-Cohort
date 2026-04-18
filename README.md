@@ -10,9 +10,9 @@ My complete code, notes, and projects from the Chai Code Web Dev Cohort 2026 —
 
 | Module | Topic | Status | Done |
 |--------|-------|--------|------|
-| 01 | Fundamentals (Networks, Git, HTTP) | ⏳ | 0/6 |
-| 02 | HTML & CSS | ⏳ | 0/7 |
-| 03 | JavaScript Core | ⏳ | 0/10 |
+| 01 | Fundamentals (Networks, Git, HTTP) | ⏳ | 6/6 |
+| 02 | HTML & CSS | ⏳ | 7/7 |
+| 03 | JavaScript Core | ⏳ | 3/10 |
 | 04 | OOP in JavaScript | ⏳ | 0/4 |
 | 05 | Async JavaScript | ⏳ | 0/5 |
 | 06 | DOM & Browser Events | ⏳ | 0/4 |
